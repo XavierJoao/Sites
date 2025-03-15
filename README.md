@@ -9,7 +9,7 @@ Esses são alguns dos sites que desenvolvi recentemente. Clique nos links abaixo
     <img src="https://img.shields.io/badge/Col%C3%A9gio%20Feliz-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="//link para o repositorio">
-    <img src="https://img.shields.io/badge/Col%C3%A9gio%20Feliz-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Col%C3%A9gio%20Feliz-white?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
