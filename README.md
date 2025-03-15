@@ -21,3 +21,9 @@ Esses são alguns dos sites que desenvolvi recentemente. Clique nos links abaixo
     <img src="https://img.shields.io/badge/Sorteador%20para%20Amigo%20Secreto-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
 </p>
+
+<p align="left">
+  <a href="">
+    <img src="https://img.shields.io/badge/CV-Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  </a>
+</p>
