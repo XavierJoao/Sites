@@ -5,51 +5,41 @@ Esses são alguns dos sites que desenvolvi recentemente. Clique nos links abaixo
 ---
 
 ### Colégio Feliz
-<p align="left">
-  <span style="display: inline-block;">
+<p style="display: flex; gap: 10px;">
   <a href="https://colegiofeliz.com.br/">
-    <img src="https://img.shields.io/badge/Visualizar%20P%C3%A1gina-blue?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Visualizar%20P%C3%A1gina-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <span style="display: inline-block;">  
   <a href="//link para o repositorio">
     <img src="https://img.shields.io/badge/Reposit%C3%B3rio-purple?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ### Jogo do Número Secreto
-<p align="left">
-  <span style="display: inline-block;">
+<p style="display: flex; gap: 10px;">
   <a href="https://jogo-ochre-three-42.vercel.app/">
     <img src="https://img.shields.io/badge/Visualizar%20P%C3%A1gina-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <span style="display: inline-block;">
   <a href="//link para o repositorio">
     <img src="https://img.shields.io/badge/Reposit%C3%B3rio-purple?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-
 ### Sorteador de Amigo Secreto
-<p align="left">
-  <span style="display: inline-block;">
+<p style="display: flex; gap: 10px;">
   <a href="https://amigo-secreto-fawn-eight.vercel.app/">
     <img src="https://img.shields.io/badge/Visualizar%20P%C3%A1gina-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <span style="display: inline-block;">
   <a href="//link para o repositorio">
     <img src="https://img.shields.io/badge/Reposit%C3%B3rio-purple?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ### Perfil Web
-<p align="left">
-  <span style="display: inline-block;">
+<p style="display: flex; gap: 10px;">
   <a href="">
     <img src="https://img.shields.io/badge/Visualizar%20P%C3%A1gina-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <span style="display: inline-block;">
   <a href="//link para o repositorio">
     <img src="https://img.shields.io/badge/Reposit%C3%B3rio-purple?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
