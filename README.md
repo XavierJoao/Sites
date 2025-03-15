@@ -1,45 +1,18 @@
 # Sites
 
-Esses são alguns dos sites que desenvolvi recentemente. Clique nos links abaixo para acessar os projetos diretamente:
+Esses são alguns dos sites que desenvolvi recentemente. Clique nos botões azuis abaixo para a visualização do projeto concluído ou, nos botões roxos, para acessar a estrutura do mesmo diretamente em seu devido repositório:
 
 ---
 
 ### Colégio Feliz
-<p style="display: flex; gap: 10px;">
-  <a href="https://colegiofeliz.com.br/">
-    <img src="https://img.shields.io/badge/Visualizar%20P%C3%A1gina-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="//link para o repositorio">
-    <img src="https://img.shields.io/badge/Reposit%C3%B3rio-purple?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Visualizar Página](https://img.shields.io/badge/Visualizar%20P%C3%A1gina-blue?style=for-the-badge&logo=google-chrome&logoColor=black)](https://colegiofeliz.com.br/) [![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-purple?style=for-the-badge&logo=github&logoColor=white)]()
+
 
 ### Jogo do Número Secreto
-<p style="display: flex; gap: 10px;">
-  <a href="https://jogo-ochre-three-42.vercel.app/">
-    <img src="https://img.shields.io/badge/Visualizar%20P%C3%A1gina-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="//link para o repositorio">
-    <img src="https://img.shields.io/badge/Reposit%C3%B3rio-purple?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Visualizar Página](https://img.shields.io/badge/Visualizar%20P%C3%A1gina-blue?style=for-the-badge&logo=google-chrome&logoColor=black)](https://jogo-ochre-three-42.vercel.app/) [![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-purple?style=for-the-badge&logo=github&logoColor=white)]()
 
 ### Sorteador de Amigo Secreto
-<p style="display: flex; gap: 10px;">
-  <a href="https://amigo-secreto-fawn-eight.vercel.app/">
-    <img src="https://img.shields.io/badge/Visualizar%20P%C3%A1gina-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="//link para o repositorio">
-    <img src="https://img.shields.io/badge/Reposit%C3%B3rio-purple?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Visualizar Página](https://img.shields.io/badge/Visualizar%20P%C3%A1gina-blue?style=for-the-badge&logo=google-chrome&logoColor=black)](https://amigo-secreto-fawn-eight.vercel.app/) [![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-purple?style=for-the-badge&logo=github&logoColor=white)]()
 
 ### Perfil Web
-<p style="display: flex; gap: 10px;">
-  <a href="">
-    <img src="https://img.shields.io/badge/Visualizar%20P%C3%A1gina-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="//link para o repositorio">
-    <img src="https://img.shields.io/badge/Reposit%C3%B3rio-purple?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Visualizar Página](https://img.shields.io/badge/Visualizar%20P%C3%A1gina-blue?style=for-the-badge&logo=google-chrome&logoColor=black)]() [![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-purple?style=for-the-badge&logo=github&logoColor=white)]()
