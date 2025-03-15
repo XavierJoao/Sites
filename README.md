@@ -8,6 +8,9 @@ Esses são alguns dos sites que desenvolvi recentemente. Clique nos links abaixo
   <a href="https://colegiofeliz.com.br/">
     <img src="https://img.shields.io/badge/Col%C3%A9gio%20Feliz-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="https://colegiofeliz.com.br/">
+    <img src="https://img.shields.io/badge/Col%C3%A9gio%20Feliz-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 <p align="left">
