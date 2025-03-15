@@ -24,6 +24,6 @@ Esses são alguns dos sites que desenvolvi recentemente. Clique nos links abaixo
 
 <p align="left">
   <a href="">
-    <img src="https://img.shields.io/badge/CV%20Website-blue?style=for-the-badge&logo=glob&logoColor=white" />
+    <img src="https://img.shields.io/badge/CV%20Website-blue?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
 </p>
