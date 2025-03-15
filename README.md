@@ -6,10 +6,10 @@ Esses são alguns dos sites que desenvolvi recentemente. Clique nos links abaixo
 
 <p align="left">
   <a href="https://colegiofeliz.com.br/">
-    <img src="https://img.shields.io/badge/Col%C3%A9gio%20Feliz-blue?style=for-the-badge&logo=google-chrome&logoColor=red" />
+    <img src="https://img.shields.io/badge/Col%C3%A9gio%20Feliz-blue?style=for-the-badge&logo=google-chrome&logoColor=pink" />
   </a>
   <a href="//link para o repositorio">
-    <img src="https://img.shields.io/badge/Col%C3%A9gio%20Feliz-purple?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Col%C3%A9gio%20Feliz-purple?style=for-the-badge&logo=github&logoColor=blue" />
   </a>
 </p>
 
